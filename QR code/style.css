@@ -1,0 +1,34 @@
+body{
+    background-color:#d5e1ef;
+    min-height: 100vh;
+    text-align: center;
+    
+
+}
+.card{
+    position: fixed;
+    margin: auto;
+    inset: 0;
+    width:100%;
+    max-width: 302px;
+    padding: 1rem;
+    padding-bottom: 2.5rem;
+    height: 470px;
+    background-color: white;
+    box-shadow: 10px 10px 5px 12px rgb(0 0 0 /8%);
+    border-radius: 16px;
+    
+}
+img{
+    width:100%;
+    border-radius: 10px;
+}
+h2{
+    font-family: cursive;
+    color: #1f3251;
+}
+p{
+    color: #595c63;
+    font-family: sans-serif;
+
+}
