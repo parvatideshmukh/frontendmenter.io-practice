@@ -1,0 +1,88 @@
+body{
+    background-color: #141414;
+    min-height: 100vh;
+}
+.card{
+    position:fixed;
+    padding: 0;
+    margin: auto;
+    inset:0;
+    height: 640px;
+    background-color: #1d1d1d;
+    box-shadow: 10px 10px 5px 12px rgba(0 0 0 /10%);
+    width: 407px;
+    border-radius: 20px;
+    padding: 1rem;
+
+}
+img {
+    width: 100%;
+    background: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 1rem;  
+}
+h1{
+    text-align: center;
+    color: #cacaca;
+    font-size: 2rem;
+    font-family: sans-serif;
+    margin-top: 1rem;
+}
+h3{
+    text-align: center;
+    color: #9cb730;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    margin-top: 1rem;
+}
+p{
+    text-align: center;
+    color:#919191;
+    font-size: 1rem;
+    font-family: sans-serif;
+    margin-top: 2.5rem;
+
+    font-weight: bold;
+}
+.social-media-links{
+    text-align: center;
+    margin-top: 1rem;
+    min-width: 316px;
+    min-height: 42px;
+    color: #cacaca;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    border-spacing: 1.5rem;
+    padding: .8rem;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    
+}
+span{
+    color: #cacaca;
+    font-size: 1rem;
+    font-family: sans-serif;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    display: block;
+    background-color:#333333;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    box-sizing: border-box;
+
+
+}
